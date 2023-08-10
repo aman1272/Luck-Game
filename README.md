@@ -1,3 +1,8 @@
+![image](https://github.com/aman1272/Luck-Game/assets/96410236/11ce79c4-d54f-4eb9-9965-4323eca08f54)
+![image](https://github.com/aman1272/Luck-Game/assets/96410236/916b3c2c-0a90-433a-8d07-b7221345c0d2)
+![image](https://github.com/aman1272/Luck-Game/assets/96410236/67ba15ad-8928-40a9-9a74-d58191aec64d)
+![image](https://github.com/aman1272/Luck-Game/assets/96410236/f44234ed-f5fd-4d88-9e0f-df57bc6f1497)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
